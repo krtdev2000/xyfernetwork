@@ -1,6 +1,7 @@
 {
   "owner": ["user_id1"],
   "admin": ["37E7E6F4812CF903"],
+  "admin": ["EFC326500059ACCC"],
   "mod": ["user_id1"],
-  "helper": ["EFC326500059ACCC"]
+  "helper": ["userid"]
 }
